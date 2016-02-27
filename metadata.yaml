@@ -1,0 +1,35 @@
+_repo: Penelope-s-Postscripts_1868
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Wiggin, Samuel Bradley, Mrs.
+    - Riggs, Kate Douglas Smith Wiggin
+    - Smith, Kate Douglas
+    - Riggs, George Christopher, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Europe -- Social life and customs -- 20th century -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Travel -- Europe -- Juvenile fiction'
+- !lcsh 'Europe -- Description and travel -- Juvenile fiction'
+- !lcsh 'Americans -- Europe -- Juvenile fiction'
+tableOfContents: Penelope in Switzerland -- Penelope in Venice -- Penelope's prints
+  of Wales -- Penelope in Devon -- Penelope at home.
+title: Penelope's Postscripts
+url: http://www.gutenberg.org/ebooks/1868
