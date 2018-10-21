@@ -1,5 +1,5 @@
 _repo: Penelope-s-Postscripts_1868
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 1868-h/images/coverb.jpg
@@ -35,6 +35,7 @@ subjects:
 - !lcsh 'Young women -- Travel -- Europe -- Juvenile fiction'
 - !lcsh 'Europe -- Description and travel -- Juvenile fiction'
 - !lcsh 'Americans -- Europe -- Juvenile fiction'
+- GITenberg
 tableOfContents: Penelope in Switzerland -- Penelope in Venice -- Penelope's prints
   of Wales -- Penelope in Devon -- Penelope at home.
 title: Penelope's Postscripts
